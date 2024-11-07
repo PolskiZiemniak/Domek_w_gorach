@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Domek w górach</string>
+    <string name="imagedesc">Obraz gór z domkami</string>
+    <string name="like">POLUB</string>
+    <string name="delete">USUŃ</string>
+    <string name="save">ZAPISZ</string>
+    <string name="description">Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych</string>
+    <string name="stringLikeCount">%1$s polubień</string>
+    <string name="descTitle">Opis</string>
+</resources>
