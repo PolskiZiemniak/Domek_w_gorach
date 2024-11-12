@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             updateCounter();
         });
         delete.setOnClickListener(view -> {
-            if(likeCount >= 0) {
+            if(likeCount > 0) {
                 likeCount--;
             }
             updateCounter();
